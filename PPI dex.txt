@@ -1,0 +1,17 @@
+conflux espace上最大dex的代币 ppi
+ppi合约地址：0x22F41aBf77905f50dF398f21213290597e7414Dd
+Conflux eSpace（Conflux）简介
+
+网络名称：Conflux eSpace
+官网：https://confluxnetwork.org
+ChainID：1030
+NetworkID：1030
+符号：Conflux
+Conflux eSpace(Conflux) 区块链浏览器
+
+https://evm.confluxscan.net
+Conflux eSpace(Conflux) RPC 地址
+
+https://evm.confluxrpc.com
+
+操作方法：先创建主网钱包fluent，再从ok买cfx转到主网钱包，再创建一个小狐狸钱包 conflux espace网络的 ，然后用跨链桥把主网钱包的cfx转到espace钱包上，再用espace钱包去swappi swap ppi。
